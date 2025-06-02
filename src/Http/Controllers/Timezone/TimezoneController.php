@@ -1,12 +1,12 @@
 <?php
 
-namespace Nnjeim\World\Http\Controllers\Timezone;
+namespace Apc66\World\Http\Controllers\Timezone;
 
-use Nnjeim\World\Http\Controllers\BaseController;
+use Apc66\World\Http\Controllers\BaseController;
 
 class TimezoneController extends BaseController
 {
-	protected string $requestBasePath = 'Nnjeim\\World\\Http\\Requests\\Timezone';
+	protected string $requestBasePath = 'Apc66\\World\\Http\\Requests\\Timezone';
 
-	protected string $actionBasePath = 'Nnjeim\\World\\Actions\\Timezone';
+	protected string $actionBasePath = 'Apc66\\World\\Actions\\Timezone';
 }

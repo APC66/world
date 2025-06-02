@@ -1,15 +1,15 @@
 <?php
 
-namespace Nnjeim\World\Http\Controllers;
+namespace Apc66\World\Http\Controllers;
 
-use Nnjeim\World\Http\Response\ResponseBuilder;
+use Apc66\World\Http\Response\ResponseBuilder;
 use Illuminate\Http\JsonResponse;
 
 class BaseController
 {
-	protected string $requestBasePath = 'Nnjeim\\World\\Http\\Requests';
+	protected string $requestBasePath = 'Apc66\\World\\Http\\Requests';
 
-	protected string $actionBasePath = 'Nnjeim\\World\\Actions';
+	protected string $actionBasePath = 'Apc66\\World\\Actions';
 
 	/**
 	 * @param $function

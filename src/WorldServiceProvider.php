@@ -1,10 +1,10 @@
 <?php
 
-namespace Nnjeim\World;
+namespace Apc66\World;
 
 use Illuminate\Support\ServiceProvider;
-use Nnjeim\World\Commands;
-use Nnjeim\World\WorldHelper;
+use Apc66\World\Commands;
+use Apc66\World\WorldHelper;
 
 class WorldServiceProvider extends ServiceProvider
 {

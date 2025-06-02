@@ -1,6 +1,6 @@
 <?php
 
-namespace Nnjeim\World\Http\Requests;
+namespace Apc66\World\Http\Requests;
 
 use Illuminate\Contracts\Validation\Validator;
 use Illuminate\Foundation\Http\FormRequest;

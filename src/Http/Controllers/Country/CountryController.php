@@ -1,12 +1,12 @@
 <?php
 
-namespace Nnjeim\World\Http\Controllers\Country;
+namespace Apc66\World\Http\Controllers\Country;
 
-use Nnjeim\World\Http\Controllers\BaseController;
+use Apc66\World\Http\Controllers\BaseController;
 
 class CountryController extends BaseController
 {
-	protected string $requestBasePath = 'Nnjeim\\World\\Http\\Requests\\Country';
+	protected string $requestBasePath = 'Apc66\\World\\Http\\Requests\\Country';
 
-	protected string $actionBasePath = 'Nnjeim\\World\\Actions\\Country';
+	protected string $actionBasePath = 'Apc66\\World\\Actions\\Country';
 }

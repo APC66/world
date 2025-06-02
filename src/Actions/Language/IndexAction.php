@@ -1,13 +1,13 @@
 <?php
 
-namespace Nnjeim\World\Actions\Language;
+namespace Apc66\World\Actions\Language;
 
 use Illuminate\Support\Collection;
 use Illuminate\Support\Facades\Cache;
-use Nnjeim\World\Actions\ActionInterface;
-use Nnjeim\World\Actions\BaseAction;
-use Nnjeim\World\Actions\Language\Queries\IndexQuery;
-use Nnjeim\World\Actions\Language\Transformers\IndexTransformer;
+use Apc66\World\Actions\ActionInterface;
+use Apc66\World\Actions\BaseAction;
+use Apc66\World\Actions\Language\Queries\IndexQuery;
+use Apc66\World\Actions\Language\Transformers\IndexTransformer;
 
 class IndexAction extends BaseAction implements ActionInterface
 {

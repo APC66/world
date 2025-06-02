@@ -1,8 +1,8 @@
 <?php
 
-namespace Nnjeim\World\Models\Traits;
+namespace Apc66\World\Models\Traits;
 
-use Nnjeim\World\Models;
+use Apc66\World\Models;
 use Illuminate\Database\Eloquent\Relations\HasOne;
 use Illuminate\Database\Eloquent\Relations\HasMany;
 

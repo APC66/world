@@ -1,6 +1,6 @@
 <?php
 
-namespace Nnjeim\World\Models;
+namespace Apc66\World\Models;
 
 use Illuminate\Database\Eloquent\Model;
 

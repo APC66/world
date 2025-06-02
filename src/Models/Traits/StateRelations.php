@@ -1,10 +1,10 @@
 <?php
 
-namespace Nnjeim\World\Models\Traits;
+namespace Apc66\World\Models\Traits;
 
 use Illuminate\Database\Eloquent\Relations\BelongsTo;
 use Illuminate\Database\Eloquent\Relations\HasMany;
-use Nnjeim\World\Models;
+use Apc66\World\Models;
 
 trait StateRelations
 {

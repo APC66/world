@@ -1,6 +1,6 @@
 <?php
 
-namespace Nnjeim\World\Actions\Timezone\Transformers;
+namespace Apc66\World\Actions\Timezone\Transformers;
 
 use Illuminate\Database\Eloquent\Collection;
 

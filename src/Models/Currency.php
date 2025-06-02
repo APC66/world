@@ -1,8 +1,8 @@
 <?php
 
-namespace Nnjeim\World\Models;
+namespace Apc66\World\Models;
 
-use Nnjeim\World\Models\Traits\CurrencyRelations;
+use Apc66\World\Models\Traits\CurrencyRelations;
 
 use Illuminate\Database\Eloquent\Model;
 

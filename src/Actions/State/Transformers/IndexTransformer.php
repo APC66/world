@@ -1,6 +1,6 @@
 <?php
 
-namespace Nnjeim\World\Actions\State\Transformers;
+namespace Apc66\World\Actions\State\Transformers;
 
 use Illuminate\Database\Eloquent\Collection;
 

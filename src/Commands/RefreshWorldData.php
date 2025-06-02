@@ -1,6 +1,6 @@
 <?php
 
-namespace Nnjeim\World\Commands;
+namespace Apc66\World\Commands;
 
 use DirectoryIterator;
 use Illuminate\Console\Command;
@@ -8,7 +8,7 @@ use Illuminate\Support\Facades\Artisan;
 use Illuminate\Support\Facades\DB;
 use Illuminate\Support\Facades\Schema;
 use Illuminate\Support\Str;
-use Nnjeim\World\Actions\SeedAction;
+use Apc66\World\Actions\SeedAction;
 
 class RefreshWorldData extends Command
 {

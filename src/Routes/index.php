@@ -1,8 +1,8 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
-use Nnjeim\World\Http\Controllers;
-use Nnjeim\World\Http\Middleware\Localization;
+use Apc66\World\Http\Controllers;
+use Apc66\World\Http\Middleware\Localization;
 
 Route::group([
 	'prefix' => '{prefix?}',

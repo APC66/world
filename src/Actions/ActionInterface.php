@@ -1,6 +1,6 @@
 <?php
 
-namespace Nnjeim\World\Actions;
+namespace Apc66\World\Actions;
 
 interface ActionInterface
 {

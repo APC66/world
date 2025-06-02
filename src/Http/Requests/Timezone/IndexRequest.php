@@ -1,8 +1,8 @@
 <?php
 
-namespace Nnjeim\World\Http\Requests\Timezone;
+namespace Apc66\World\Http\Requests\Timezone;
 
-use Nnjeim\World\Http\Requests\BaseRequest;
+use Apc66\World\Http\Requests\BaseRequest;
 
 class IndexRequest extends BaseRequest
 {

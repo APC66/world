@@ -1,10 +1,10 @@
 <?php
 
-namespace Nnjeim\World\Actions;
+namespace Apc66\World\Actions;
 
 use Illuminate\Support\Collection;
-use Nnjeim\World\Actions\Traits\IndexFieldsTrait;
-use Nnjeim\World\Http\Response\ResponseBuilder;
+use Apc66\World\Actions\Traits\IndexFieldsTrait;
+use Apc66\World\Http\Response\ResponseBuilder;
 
 class BaseAction
 {

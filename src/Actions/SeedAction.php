@@ -1,12 +1,12 @@
 <?php
 
-namespace Nnjeim\World\Actions;
+namespace Apc66\World\Actions;
 
 use Exception;
 use Illuminate\Support\Arr;
 use Illuminate\Support\Facades\DB;
 use Illuminate\Support\Facades\File;
-use Nnjeim\World\Models;
+use Apc66\World\Models;
 use Illuminate\Database\Seeder;
 use Illuminate\Support\Facades\Schema;
 

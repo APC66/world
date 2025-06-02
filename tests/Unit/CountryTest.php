@@ -1,14 +1,14 @@
 <?php
 
-namespace Nnjeim\World\Tests\Unit;
+namespace Apc66\World\Tests\Unit;
 
-use Nnjeim\World\Actions\City;
-use Nnjeim\World\Actions\Country;
-use Nnjeim\World\Actions\Currency;
-use Nnjeim\World\Actions\State;
-use Nnjeim\World\Actions\Timezone;
-use Nnjeim\World\Actions\Language;
-use Nnjeim\World\Tests\TestCase;
+use Apc66\World\Actions\City;
+use Apc66\World\Actions\Country;
+use Apc66\World\Actions\Currency;
+use Apc66\World\Actions\State;
+use Apc66\World\Actions\Timezone;
+use Apc66\World\Actions\Language;
+use Apc66\World\Tests\TestCase;
 use Symfony\Component\HttpFoundation\Response;
 
 class CountryTest extends TestCase

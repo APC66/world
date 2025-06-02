@@ -1,6 +1,6 @@
 <?php
 
-namespace Nnjeim\World;
+namespace Apc66\World;
 
 use Illuminate\Support\Facades\Facade;
 

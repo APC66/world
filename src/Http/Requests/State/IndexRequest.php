@@ -1,8 +1,8 @@
 <?php
 
-namespace Nnjeim\World\Http\Requests\State;
+namespace Apc66\World\Http\Requests\State;
 
-use Nnjeim\World\Http\Requests\BaseRequest;
+use Apc66\World\Http\Requests\BaseRequest;
 
 class IndexRequest extends BaseRequest
 {

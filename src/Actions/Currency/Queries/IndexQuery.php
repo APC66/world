@@ -1,9 +1,9 @@
 <?php
 
-namespace Nnjeim\World\Actions\Currency\Queries;
+namespace Apc66\World\Actions\Currency\Queries;
 
 use Illuminate\Database\Eloquent\Collection;
-use Nnjeim\World\Models\Currency;
+use Apc66\World\Models\Currency;
 
 class IndexQuery
 {
